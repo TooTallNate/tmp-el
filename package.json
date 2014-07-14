@@ -1,6 +1,6 @@
 {
   "name": "tmp-el",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "temporarily add an element to the page to get css values",
   "author": "Matthew Mueller",
   "contributors": [
